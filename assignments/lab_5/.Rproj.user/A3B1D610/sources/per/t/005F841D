@@ -1,0 +1,28 @@
+{
+    "id": "005F841D",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1634061224662.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "id": "bcc3696ac94648cd9d861ca01d3ea6aa",
+        "name": "predict_linear",
+        "title": "predict_linear",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3127481360520,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1634061224662,
+    "read_only": false,
+    "read_only_alternatives": []
+}

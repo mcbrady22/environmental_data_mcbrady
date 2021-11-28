@@ -1,0 +1,32 @@
+---
+title: "R Markdown Documents - Part 1"
+subtitle: "Analysis of Environmental Data"
+author: "Madison Brady"
+output:
+  html_notebook:
+    toc: yes
+    toc_float: yes
+    theme: readable
+---
+# Introduction
+
+My name is **Madison Brady** and I am in the *MS3 Program* at UMass.
+
+# Concepts
+
+I am excited to learn the following:
+
+1. The actual syntax and "grammar" of programming languages
+2. Some additional ways that computer data can be processed, interpreted,
+and relayed to an audience, other than what I know from using excel and 
+ArcMap
+
+# Courses
+
+Some of my favorite courses at UMass include:
+
++ National Parks and Protected Areas
+
++ Fish Ecology
+
++ Alternative Dispute Resolution

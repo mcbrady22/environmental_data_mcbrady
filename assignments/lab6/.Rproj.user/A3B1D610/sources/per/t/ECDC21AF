@@ -1,0 +1,28 @@
+{
+    "id": "ECDC21AF",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1634997405485.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "id": "2fc2d2ca1f874ac4afd6842dd36e21e7",
+        "name": "mean_differences",
+        "title": "mean_differences",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2477389231671094306,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1634997405485,
+    "read_only": false,
+    "read_only_alternatives": []
+}

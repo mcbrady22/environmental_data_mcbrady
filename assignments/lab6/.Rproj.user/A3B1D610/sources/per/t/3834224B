@@ -1,0 +1,28 @@
+{
+    "id": "3834224B",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1635183841956.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "id": "587d7b758c434cf5854113836d2ce760",
+        "name": "splitmass",
+        "title": "splitmass",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2443349798648,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1635183841956,
+    "read_only": false,
+    "read_only_alternatives": []
+}

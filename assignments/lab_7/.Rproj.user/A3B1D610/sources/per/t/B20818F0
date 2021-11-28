@@ -1,0 +1,28 @@
+{
+    "id": "B20818F0",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1635859809715.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "id": "0a713b468ca1457ea5f70724c060cb13",
+        "name": "males",
+        "title": "males",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2334391147559925047,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1635859809715,
+    "read_only": false,
+    "read_only_alternatives": []
+}

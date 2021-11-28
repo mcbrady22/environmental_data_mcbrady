@@ -1,0 +1,12 @@
+---
+title: "homepage"
+author: "madison_brady"
+date: "11/25/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Welcome to Madison's course GitHub page for ECO 602/634!

@@ -1,0 +1,41 @@
+---
+title: "R Markdown Documents - Part 1"
+subtitle: "Analysis of Environmental Data"
+author: "Madison Brady"
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+    theme: readable
+
+---
+My name is **Madison Brady** and I am in the *MS3 Program* at UMass.
+
+I am excited to learn the following:
+
+1. The actual syntax and "grammar" of programming languages
+2. Some additional ways that computer data can be processed, interpreted,
+and relayed to an audience, other than what I know from using excel and 
+ArcMap
+
+Some of my favorite courses at UMass include:
+
++ National Parks and Protected Areas
+
++ Fish Ecology
+
++ Alternative Dispute Resolution
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+plot(cars)
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
